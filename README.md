@@ -61,3 +61,6 @@ npm install react-bootstrap bootstrap
 ```bash
 npm install react-router-dom@6
 ```
+```bash
+npm install typed.js
+```
