@@ -8,6 +8,7 @@ import LinhaTempo from "./components/D_LinhaTempo/index";
 import MapCards from "./components/E_Portifolio/MapCard";
 import Footer from "./components/G_Footer/index";
 import './App.scss';
+import Softskill from './components/Softskill';
 
 export default class App extends Component {
 
@@ -23,6 +24,7 @@ export default class App extends Component {
         <Navbar />
         <Banner />
         <About />
+        <Softskill />
         <LinhaTempo />
         <MapCards />
         <Footer owner={this.user} />

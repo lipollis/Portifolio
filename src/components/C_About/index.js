@@ -5,7 +5,7 @@ import euAline from "../../assets/img/Me.JPG";
 
 
 
-const Banner = () => {
+const About = () => {
 
   return (
     <div id="about" className="container py-5">
@@ -37,4 +37,4 @@ const Banner = () => {
 
 }
 
-export default Banner;
+export default About;
