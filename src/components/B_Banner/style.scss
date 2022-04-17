@@ -6,11 +6,19 @@
 // *********************************************
 //     #######   IMAGEM DE FUNDO #######
 // *********************************************
-.header-wraper{
-  position: relative;
-  background: url(../../assets/img/wallpapper.jpg) no-repeat;
-  background-size: cover;
+.parallax {
+  background-image: url(../../assets/img/wallpapper.jpg);
+  // min-height: 500px; 
+  background-attachment: fixed;
   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header-wraper{
+  // position: relative;
+  // background: url(../../assets/img/wallpapper.jpg) no-repeat;
+  // background-size: cover;
+  // background-position: center;
   height: 90vh;
 }
 

@@ -12,7 +12,8 @@ const Banner = () => {
 
   return (
 <>
-    <div id="banner" className="header-wraper">
+{/* <div class="parallax"></div> */}
+    <div id="banner" className="header-wraper parallax">
       <Particulas />
       <div className="main-info">
         <h1 className="titulo">ALINE POLLIS</h1>
