@@ -16,13 +16,13 @@ h3{
     margin: 2rem;
 }
 
-.card-soft-left{
+.card-soft{
     overflow: auto;
     display: flex;
     // flex-direction: row;
     margin: 3rem;
 }
-.wrap-img-soft-left {
+.wrap-img-soft {
     width: 7rem;
     height: 7rem;
     border-radius: 50%;
@@ -31,57 +31,57 @@ h3{
     border: 1px solid var(--cor-preta);
     object-fit: cover;
     text-align: center;
-    margin: 3rem;
+    margin: 2rem 3rem 3rem 6rem;
 }
-img.img-soft-left{
+img.img-soft{
     width: 5rem; 
     margin: auto;
     text-align: center;
     float: left
 }
-.card-text-left{
+.card-text{
     width: 50vw;
     float: left;
     position: relative;
-    // margin: 0 auto;
+    margin: 0 0 0 3rem;
 }
 
 
-.card-soft-right::after{
-    overflow: auto;
-    display: flex;
-    flex-direction: row;
-    margin: 3rem;
-    clear: both;
-    display: table;
-    // float: right;
-}
-.wrap-img-soft-right {
-    width: 7rem;
-    height: 7rem;
-    border-radius: 50%;
-    padding: 1rem;
-    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
-    border: 1px solid var(--cor-preta);
-    object-fit: cover;
-    text-align: center;
-    margin: 3rem;
-    float: right;
-}
-img.img-soft-right{
-    width: 5rem; 
-    margin: auto;
-    text-align: center;
-    float: right;
-}
+// .card-soft-right::after{
+//     overflow: auto;
+//     display: flex;
+//     flex-direction: row;
+//     margin: 3rem;
+//     clear: both;
+//     display: table;
+//     // float: right;
+// }
+// .wrap-img-soft-right {
+//     width: 7rem;
+//     height: 7rem;
+//     border-radius: 50%;
+//     padding: 1rem;
+//     background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+//     border: 1px solid var(--cor-preta);
+//     object-fit: cover;
+//     text-align: center;
+//     margin: 3rem;
+//     float: right;
+// }
+// img.img-soft-right{
+//     width: 5rem; 
+//     margin: auto;
+//     text-align: center;
+//     float: right;
+// }
 
 
-.card-text-right{
-    width: 50vw;
-    float: right;
-    position: relative;
-    // margin: 0 auto;
-}
+// .card-text-right{
+//     width: 50vw;
+//     float: right;
+//     position: relative;
+//     // margin: 0 auto;
+// }
 
 h4{
     font-family:'Roboto', sans-serif;

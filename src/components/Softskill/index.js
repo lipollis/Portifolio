@@ -13,11 +13,11 @@ const Softskill = () => {
 
       <div id="softskill" className="container-softskill">
       <h3>Análise de perfil realizada pela plum.io</h3>
-        <div className="card-soft-left ">
-          <div className="wrap-img-soft-left ">
-            <img className="img-soft-left" src={checklist} alt=" "></img>
+        <div className="card-soft ">
+          <div className="wrap-img-soft ">
+            <img className="img-soft" src={checklist} alt=" "></img>
           </div>
-          <div  className="card-text-left">
+          <div  className="card-text">
             <h4 className="titleSoft">Tomada de decisões</h4>
             <p className="pSoft">
               Capacidade de tomar decisões de alta qualidade com base em
@@ -48,11 +48,11 @@ const Softskill = () => {
           </div>
         </div>
 
-        <div className="card-soft-right ">
-          <div className="wrap-img-soft-right ">
-            <img className="img-soft-right " src={decision} alt=" "></img>
+        <div className="card-soft ">
+          <div className="wrap-img-soft ">
+            <img className="img-soft " src={decision} alt=" "></img>
           </div>
-          <div  className="card-text-right">
+          <div  className="card-text">
             <h4 className="titleSoft">Execução</h4>
             <p className="pSoft">
               Capacidade de definir metas, monitorar o progresso e tomar
@@ -80,11 +80,11 @@ const Softskill = () => {
           </div>
         </div>
 
-        <div className="card-soft-left ">
-          <div className="wrap-img-soft-left ">
-            <img className="img-soft-left " src={chameleon} alt=" "></img>
+        <div className="card-soft ">
+          <div className="wrap-img-soft ">
+            <img className="img-soft " src={chameleon} alt=" "></img>
           </div>
-          <div  className="card-text-left">
+          <div  className="card-text">
             <h4 className="titleSoft">Competências de adaptação</h4>
             <p className="pSoft">
               Capacidade de me adaptar às mudanças no local de trabalho,
@@ -107,11 +107,11 @@ const Softskill = () => {
           </div>
         </div>
 
-        <div className="card-soft-right ">
-          <div className="wrap-img-soft-right ">
-            <img className="img-soft-right " src={stylist} alt=" "></img>
+        <div className="card-soft ">
+          <div className="wrap-img-soft ">
+            <img className="img-soft " src={stylist} alt=" "></img>
           </div>
-          <div  className="card-text-right">
+          <div  className="card-text">
             <h4 className="titleSoft">Eu sou</h4>
             <ul>
               <li className="liSoft">Capaz de analisar e resolver problemas muitos complexos.</li>
@@ -133,11 +133,11 @@ const Softskill = () => {
           </div>
         </div>
 
-        <div className="card-soft-left ">
-          <div className="wrap-img-soft-left ">
-            <img className="img-soft-left" src={preference} alt=" "></img>
+        <div className="card-soft ">
+          <div className="wrap-img-soft ">
+            <img className="img-soft" src={preference} alt=" "></img>
           </div>
-          <div  className="card-text-left">
+          <div  className="card-text">
             <h4 className="titleSoft">Profissionalmente sou</h4>
             <ul>
               <li className="liSoft">
@@ -173,11 +173,11 @@ const Softskill = () => {
           </div>
         </div>
 
-        <div className="card-soft-right ">
-          <div className="wrap-img-soft-right ">
-            <img className="img-soft-right " src={sketch} alt=" "></img>
+        <div className="card-soft ">
+          <div className="wrap-img-soft ">
+            <img className="img-soft " src={sketch} alt=" "></img>
           </div>
-          <div  className="card-text-right">
+          <div  className="card-text">
             <h4 className="titleSoft">No trabalho sou</h4>
             <ul>
               <li className="liSoft">
@@ -199,11 +199,11 @@ const Softskill = () => {
           </div>
         </div>
 
-        <div className="card-soft-left ">
-          <div className="wrap-img-soft-left ">
-            <img className="img-soft-left " src={spirit} alt=" "></img>
+        <div className="card-soft ">
+          <div className="wrap-img-soft ">
+            <img className="img-soft " src={spirit} alt=" "></img>
           </div>
-          <div  className="card-text-left">
+          <div  className="card-text">
             <h4 className="titleSoft">Sou mais feliz em cargos que me permitam</h4>
             <ul>
               <li className="liSoft">Encontrar e resolver problemas complexos.</li>
