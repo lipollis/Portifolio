@@ -2,7 +2,7 @@
 import { Component } from 'react';
 import React from "react";
 import logo from "../../assets/img/logo.jpg";
-import './style.sass';
+import './style.scss';
 
 export default class Navbar extends Component {
 

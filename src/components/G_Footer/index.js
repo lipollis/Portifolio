@@ -1,5 +1,5 @@
 // eslint-disable-next-line
-import './style.sass';
+import './style.scss';
 
 import Facebook from "../../assets/img/Rede_social/socialFacebook.svg";
 import Instagram from "../../assets/img/Rede_social/socialInstagram.svg";
@@ -8,9 +8,6 @@ import GitHub from "../../assets/img/Rede_social/socialGithub.svg";
 import Email from "../../assets/img/Rede_social/socialMail.svg";
 import WhatsApp from "../../assets/img/Rede_social/socialWhatsapp.svg";
 import assinatura from "../../assets/img/sun.png"
-
-
-
 
 const Footer = ({owner}) => {
 	const generateDateString = () => {
@@ -55,8 +52,8 @@ const Footer = ({owner}) => {
 									<br />
 									<a href="#portfolio-project" className="footer-nav">Portfolio</a>
 									<br />
-									<a href="#contacts" className="footer-nav">Contato</a>
-									<br />
+									{/* <a href="#contacts" className="footer-nav">Contato</a>
+									<br /> */}
 								</div>
 							</div>
 						</div>

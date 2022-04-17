@@ -1,6 +1,6 @@
 // eslint-disable-next-line
 
-import './style.sass';
+import './style.scss';
 
 const LinhaTempo = () => {
     return (

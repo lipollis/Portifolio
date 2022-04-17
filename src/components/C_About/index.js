@@ -1,8 +1,11 @@
 // eslint-disable-next-line
-import './style.sass';
+
+import './style.scss';
 import euAline from "../../assets/img/Me.JPG";
 
-const About = () => {
+
+
+const Banner = () => {
 
   return (
     <div id="about" className="container py-5">
@@ -34,4 +37,4 @@ const About = () => {
 
 }
 
-export default About;
+export default Banner;
