@@ -1,4 +1,106 @@
 
-.img-soft{
-    width: 1rem;
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
+
+.container-softskill {
+    background: var(--fundo-escuro);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    display: grid;
+  }
+
+
+h3{
+    text-align: right;
+    color: var(--cor-amarela);
+    font-family: 'Cinzel', serif;
+    margin: 2rem;
+}
+
+.card-soft-left{
+    overflow: auto;
+    display: flex;
+    // flex-direction: row;
+    margin: 3rem;
+}
+.wrap-img-soft-left {
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+    padding: 1rem;
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+    border: 1px solid var(--cor-preta);
+    object-fit: cover;
+    text-align: center;
+    margin: 3rem;
+}
+img.img-soft-left{
+    width: 5rem; 
+    margin: auto;
+    text-align: center;
+    float: left
+}
+.card-text-left{
+    width: 50vw;
+    float: left;
+    position: relative;
+    // margin: 0 auto;
+}
+
+
+.card-soft-right::after{
+    overflow: auto;
+    display: flex;
+    flex-direction: row;
+    margin: 3rem;
+    clear: both;
+    display: table;
+    // float: right;
+}
+.wrap-img-soft-right {
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+    padding: 1rem;
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+    border: 1px solid var(--cor-preta);
+    object-fit: cover;
+    text-align: center;
+    margin: 3rem;
+    float: right;
+}
+img.img-soft-right{
+    width: 5rem; 
+    margin: auto;
+    text-align: center;
+    float: right;
+}
+
+
+.card-text-right{
+    width: 50vw;
+    float: right;
+    position: relative;
+    // margin: 0 auto;
+}
+
+h4{
+    font-family:'Roboto', sans-serif;
+    color: var(--cor-cinza);
+    text-transform: uppercase;
+}
+
+p.pSoft{
+    font-family:'Roboto', sans-serif;
+    font-size: 20px;
+    color: var(--cor-destaque);
+    text-align: justify;
+    text-indent: 3rem;
+}
+
+li.liSoft{
+    font-family:'Roboto', sans-serif;
+    font-size: 20px;
+    color: var(--cor-destaque);
+    text-align: justify;
+    line-height: 1.8;
 }
