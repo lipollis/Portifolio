@@ -103,6 +103,24 @@ const LinhaTempo = () => {
               </p>
             </div>
           </div>
+
+          <div className="timeline-block time-line-block-left">
+            <div className="marker"></div>
+            <div className="timeline-content">
+              <h3 className="titleLineL">2022</h3>
+              <p className="p-left">
+                
+                Aluna especial na disciplina:
+                "Modelagem e Controle de Robôs Móveis Autônomos", Mestrado em Engenharia Mecânica.
+                <br />
+                Universidade Federal do ABC.
+              </p>
+            </div>
+          </div>
+
+
+
+
         </div>
       </div>
     );
