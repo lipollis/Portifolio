@@ -48,9 +48,13 @@ const Footer = ({owner}) => {
 									<br />
 									<a href="#about" className="footer-nav">About Me</a>
 									<br />
-									<a href="#experience" className="footer-nav">Qualificação</a>
+									<a href="#softskill" className="footer-nav">Softskill</a>
 									<br />
-									<a href="#portfolio-project" className="footer-nav">Portfolio</a>
+									<a href="#hardskill" className="footer-nav">Hardskill</a>
+									<br />
+									<a href="#experience" className="footer-nav">Linha do tempo</a>
+									<br />
+									<a href="#portfolio" className="footer-nav">Portifolio</a>
 									<br />
 									{/* <a href="#contacts" className="footer-nav">Contato</a>
 									<br /> */}
@@ -73,7 +77,7 @@ const Footer = ({owner}) => {
 								<a href="https://github.com/lipollis" target="_blank" rel="noopener noreferrer" className="socialImage">
 								<img className="redeSocial" src={GitHub} alt="GitHub"></img></a>
 
-								<a href="https://outlook.live.com/" target="_blank" rel="noopener noreferrer" className="socialImage">
+								<a href="mailto:aline.pollis@hotmail.com" target="_blank" rel="noopener noreferrer" className="socialImage">
 								<img className="redeSocial" src={Email} alt="Email"></img></a>
 
 								<a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer" className="socialImage">

@@ -1,7 +1,7 @@
 import autocad from "../../assets/img/Hardskill/icons8-autocad.svg";
 import solidworks from "../../assets/img/Hardskill/icons8-solidworks.svg";
 import inventor from "../../assets/img/Hardskill/icons8-inventor.svg";
-import revit from "../../assets/img/Hardskill/icons8-revit.svg";
+// import revit from "../../assets/img/Hardskill/icons8-revit.svg";
 import powerbi from "../../assets/img/Hardskill/icons8-powerbi.svg";
 import excel from "../../assets/img/Hardskill/icons8-excel.svg";
 import "./style.scss";
@@ -17,7 +17,7 @@ const Hardskill = () => {
         <ul>
           <li className="icon-hardskill"><img className="icon-img-hard" src={autocad} alt="Autodesk Autocad" /></li>
           <li className="icon-hardskill"><img className="icon-img-hard" src={inventor} alt="Autodesk Inventor" /></li>
-          <li className="icon-hardskill"><img className="icon-img-hard" src={revit} alt="Autodesk Revit"/></li>
+          {/* <li className="icon-hardskill"><img className="icon-img-hard" src={revit} alt="Autodesk Revit"/></li> */}
           <li className="icon-hardskill"><img className="icon-img-hard" src={solidworks} alt="SolidWorks"/></li>
           <li className="icon-hardskill"><img className="icon-img-hard" src={powerbi} alt="Power BI"/></li>
 
