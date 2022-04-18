@@ -44,14 +44,14 @@ const DataCard = [
         id: 5,
         img: Vagas,
         title: "Vagas",
-        description: "JSON + Angular          ",
+        description: "JSON + Angular",
         btn: "GitHub",
         link: "http://github.com/lipollis"
     },
     {
         id: 6,
         img: Pokedex,
-        title: "Pokedex                        ",
+        title: "Pokedex",
         description: "HTML + CSS",
         btn: "GitHub",
         link: "http://github.com/lipollis"

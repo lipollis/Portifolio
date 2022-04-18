@@ -6,18 +6,15 @@
     grid-auto-rows: auto;
   }
 
-  .headingHardH2 {
-    color: var(--cor-cinza);
-    padding-bottom: 10px;
-    border-bottom-style: solid;
-    border-color: var(--cor-laranja);
-    text-transform: uppercase;
-    font-weight: 300;
-  
+  .headingHardH1 {
+    font-weight: 400;
     border-bottom-width: 3.1px;
     width: fit-content;
     width: -moz-fit-content;
-    margin-left: 22%;
+    margin: 0 auto;
+    padding-bottom: 8%;
+    color: var(--cor-laranja);
+    text-transform: uppercase;
   }
 
 .icon-hardskill{
@@ -25,7 +22,7 @@
   margin: 0 auto;
 }
 
-.icon{
+.icon-img-hard{
   width: 12rem;
   padding: 2rem;
 }

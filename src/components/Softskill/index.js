@@ -11,7 +11,7 @@ const Softskill = () => {
   return (
     <>
       <div id="softskill" className="container-softskill">
-        <h2 className="headingSoftH2">Softskill</h2>
+      <h1 className="headingSoftH1"> Softskill </h1>
         <h3 className="headingSoftH3">
           Análise de perfil realizada pela plum.io
         </h3>

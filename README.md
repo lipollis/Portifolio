@@ -64,3 +64,9 @@ npm install typed.js
 ```bash
 npm i react-helmet-async
 ```
+```bash
+npm i react-carousel-minimal
+```
+```bash
+
+```
