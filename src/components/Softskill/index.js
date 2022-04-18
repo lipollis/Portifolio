@@ -190,7 +190,7 @@ const Softskill = () => {
                 Altamente capaz de aprender e usar a razão para superar
                 obstáculos difíceis.
               </li>
-              <li className="liSoft">Prefero ser organizado e ter um plano.</li>
+              <li className="liSoft">Prefiro ser organizado e ter um plano.</li>
               <li className="liSoft">
                 Aprecio desafios esperados e previsíveis.
               </li>
