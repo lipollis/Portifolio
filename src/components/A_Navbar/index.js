@@ -28,7 +28,7 @@ export default class Navbar extends Component {
                                     <a className="nav-link" href="#about">About me</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="#portfolio">Portifólio</a>
+                                    <a className="nav-link" href="#portfolio">Portfólio</a>
                                 </li>
                                 <li className="nav-item">
                                     <a className="nav-link" href="#footer">Contatos</a>

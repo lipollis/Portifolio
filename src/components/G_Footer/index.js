@@ -48,13 +48,13 @@ const Footer = ({owner}) => {
 									<br />
 									<a href="#about" className="footer-nav">About Me</a>
 									<br />
-									<a href="#softskill" className="footer-nav">Softskill</a>
+									<a href="#softskill" className="footer-nav">Soft Skills</a>
 									<br />
-									<a href="#hardskill" className="footer-nav">Hardskill</a>
+									<a href="#hardskill" className="footer-nav">Hard Skills</a>
 									<br />
 									<a href="#experience" className="footer-nav">Linha do tempo</a>
 									<br />
-									<a href="#portfolio" className="footer-nav">Portifolio</a>
+									<a href="#portfolio" className="footer-nav">Portfólio</a>
 									<br />
 									{/* <a href="#contacts" className="footer-nav">Contato</a>
 									<br /> */}

@@ -11,7 +11,7 @@ const Softskill = () => {
   return (
     <>
       <div id="softskill" className="container-softskill">
-      <h1 className="headingSoftH1"> Soft Skills </h1>
+        <h1 className="headingSoftH1"> Soft Skills </h1>
         <h3 className="headingSoftH3">
           Análise de perfil realizada pela plum.io
         </h3>
@@ -70,7 +70,7 @@ const Softskill = () => {
                 mesmo quando inicialmente não for bem-sucedida.
               </li>
               <li className="liSoft">
-                Ótimo em aceitar críticas e comentários, bem como em assumir a
+                Ótima em aceitar críticas e comentários, bem como em assumir a
                 responsabilidade pelas decisões.
               </li>
               <li className="liSoft">
@@ -102,7 +102,7 @@ const Softskill = () => {
                 associados a mudanças.
               </li>
               <li className="liSoft">
-                Altamente capaz de aplicar novas habilidades e se adaptar a
+                Altamente capaz de aplicar novas habilidades e de se adaptar a
                 mudanças e diferentes ambientes.
               </li>
             </ul>
@@ -190,7 +190,7 @@ const Softskill = () => {
                 Altamente capaz de aprender e usar a razão para superar
                 obstáculos difíceis.
               </li>
-              <li className="liSoft">Prefiro ser organizado e ter um plano.</li>
+              <li className="liSoft">Prefiro ser organizada e ter um plano.</li>
               <li className="liSoft">
                 Aprecio desafios esperados e previsíveis.
               </li>
@@ -240,8 +240,8 @@ const Softskill = () => {
                 pequenas ou oportunidades de trabalhar sozinha.
               </li>
               <li className="liSoft">
-                Ter algum tempo para demonstrar carinho pelos demais e lhes
-                oferecer apoio, porque considero uma parte gratificante do
+                Ter algum tempo para demonstrar carinho pelos demais e
+                oferecer-lhes apoio, porque considero uma parte gratificante do
                 trabalho.
               </li>
               <li className="liSoft">

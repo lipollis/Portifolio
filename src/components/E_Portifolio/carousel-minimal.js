@@ -64,7 +64,7 @@ function Portifolio() {
 <div id="portfolio" className="portfolio">
   <div className="background album py-5 bg-light">
     <div className="text-center">
-      <h1 className="portfolio-h1"> Portfolio </h1>
+      <h1 className="portfolio-h1"> Portfólio </h1>
     </div>
 
     <div className="container">
