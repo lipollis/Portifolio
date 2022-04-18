@@ -22,6 +22,7 @@ footer{
   }
 }
 
+
 p{
   padding: 0.25rem;
   text-align: center;
@@ -70,13 +71,15 @@ p{
 
 .qrcode{
   background-color: var(--cor-destaque);
-  width: 10rem;
-  height: 10rem;
+  width: 7rem;
+  height: 7rem;
   padding: 0;
+  float: right;
 }
 .img-qrcode{
-  width: 10rem;
+  width: 7rem;
   object-fit: cover;
+  float: right;
 }
   // *********************************************
   //        #######   RESPONSIVIDADE   #######
