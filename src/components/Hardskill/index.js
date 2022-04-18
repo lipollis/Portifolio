@@ -12,7 +12,7 @@ const Hardskill = () => {
   return (
     <>
       <div id="hardskill" className="container-hardskill ">
-      <h1 className="headingHardH1">Hardskill</h1>
+      <h1 className="headingHardH1">Hard Skills</h1>
       <div className=" ">
         <ul>
           <li className="icon-hardskill"><img className="icon-img-hard" src={autocad} alt="Autodesk Autocad" /></li>
