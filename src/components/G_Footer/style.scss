@@ -68,6 +68,16 @@ p{
   }
 }
 
+.qrcode{
+  background-color: var(--cor-destaque);
+  width: 10rem;
+  height: 10rem;
+  padding: 0;
+}
+.img-qrcode{
+  width: 10rem;
+  object-fit: cover;
+}
   // *********************************************
   //        #######   RESPONSIVIDADE   #######
   // *********************************************

@@ -7,6 +7,7 @@ import LinkedIn from "../../assets/img/Rede_social/socialLinkedin.svg";
 import GitHub from "../../assets/img/Rede_social/socialGithub.svg";
 import Email from "../../assets/img/Rede_social/socialMail.svg";
 import WhatsApp from "../../assets/img/Rede_social/socialWhatsapp.svg";
+import qrWhatsApp from "../../assets/img/Rede_social/qrcode-whatsapp.png";
 import assinatura from "../../assets/img/sun.png"
 
 const Footer = ({owner}) => {
@@ -86,6 +87,10 @@ const Footer = ({owner}) => {
 
 							<h3>{owner} &copy; Copyright {generateDateString()}</h3>
 							<p>Todos os direitos reservados.</p>
+						</div>
+
+						<div className='qrcode'>
+							<img className='img-qrcode'src={qrWhatsApp} alt='qr code Whatsapp'></img>
 						</div>
 					</div>
 				</div>
