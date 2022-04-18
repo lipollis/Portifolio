@@ -8,13 +8,30 @@
     display: grid;
   }
 
-
-h3{
-    text-align: right;
-    color: var(--cor-amarela);
-    font-family: 'Cinzel', serif;
-    margin: 2rem;
-}
+  .headingSoftH2 {
+    color: var(--cor-cinza);
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    font-weight: 400;
+  
+    border-bottom-width: 3.1px;
+    width: fit-content;
+    width: -moz-fit-content;
+    margin-left: 22%;
+  }
+  .headingSoftH3 {
+    color: var(--cor-cinza);
+    padding-bottom: 10px;
+    border-bottom-style: solid;
+    border-color: var(--cor-laranja);
+    text-transform: uppercase;
+    font-weight: 200;
+  
+    border-bottom-width: 3.1px;
+    width: fit-content;
+    width: -moz-fit-content;
+    margin-left: 22%;
+  }
 
 .card-soft{
     overflow: auto;
@@ -95,6 +112,7 @@ p.pSoft{
     color: var(--cor-destaque);
     text-align: justify;
     text-indent: 3rem;
+    font-weight: 200;
 }
 
 li.liSoft{
@@ -103,4 +121,5 @@ li.liSoft{
     color: var(--cor-destaque);
     text-align: justify;
     line-height: 1.8;
+    font-weight: 200;
 }

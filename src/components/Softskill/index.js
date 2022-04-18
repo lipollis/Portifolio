@@ -10,14 +10,16 @@ import "./style.scss";
 const Softskill = () => {
   return (
     <>
-
       <div id="softskill" className="container-softskill">
-      <h3>Análise de perfil realizada pela plum.io</h3>
+        <h2 className="headingSoftH2">Softskill</h2>
+        <h3 className="headingSoftH3">
+          Análise de perfil realizada pela plum.io
+        </h3>
         <div className="card-soft ">
           <div className="wrap-img-soft ">
             <img className="img-soft" src={checklist} alt=" "></img>
           </div>
-          <div  className="card-text">
+          <div className="card-text">
             <h4 className="titleSoft">Tomada de decisões</h4>
             <p className="pSoft">
               Capacidade de tomar decisões de alta qualidade com base em
@@ -52,7 +54,7 @@ const Softskill = () => {
           <div className="wrap-img-soft ">
             <img className="img-soft " src={decision} alt=" "></img>
           </div>
-          <div  className="card-text">
+          <div className="card-text">
             <h4 className="titleSoft">Execução</h4>
             <p className="pSoft">
               Capacidade de definir metas, monitorar o progresso e tomar
@@ -84,7 +86,7 @@ const Softskill = () => {
           <div className="wrap-img-soft ">
             <img className="img-soft " src={chameleon} alt=" "></img>
           </div>
-          <div  className="card-text">
+          <div className="card-text">
             <h4 className="titleSoft">Competências de adaptação</h4>
             <p className="pSoft">
               Capacidade de me adaptar às mudanças no local de trabalho,
@@ -111,11 +113,15 @@ const Softskill = () => {
           <div className="wrap-img-soft ">
             <img className="img-soft " src={stylist} alt=" "></img>
           </div>
-          <div  className="card-text">
+          <div className="card-text">
             <h4 className="titleSoft">Eu sou</h4>
             <ul>
-              <li className="liSoft">Capaz de analisar e resolver problemas muitos complexos.</li>
-              <li className="liSoft">Minuciosa, prudente, sistemática e metódica.</li>
+              <li className="liSoft">
+                Capaz de analisar e resolver problemas muitos complexos.
+              </li>
+              <li className="liSoft">
+                Minuciosa, prudente, sistemática e metódica.
+              </li>
               <li className="liSoft">
                 Propensa a ser confiante, feliz, otimista, contente, segura e
                 alegre.
@@ -137,7 +143,7 @@ const Softskill = () => {
           <div className="wrap-img-soft ">
             <img className="img-soft" src={preference} alt=" "></img>
           </div>
-          <div  className="card-text">
+          <div className="card-text">
             <h4 className="titleSoft">Profissionalmente sou</h4>
             <ul>
               <li className="liSoft">
@@ -177,7 +183,7 @@ const Softskill = () => {
           <div className="wrap-img-soft ">
             <img className="img-soft " src={sketch} alt=" "></img>
           </div>
-          <div  className="card-text">
+          <div className="card-text">
             <h4 className="titleSoft">No trabalho sou</h4>
             <ul>
               <li className="liSoft">
@@ -185,12 +191,18 @@ const Softskill = () => {
                 obstáculos difíceis.
               </li>
               <li className="liSoft">Prefero ser organizado e ter um plano.</li>
-              <li className="liSoft">Aprecio desafios esperados e previsíveis.</li>
+              <li className="liSoft">
+                Aprecio desafios esperados e previsíveis.
+              </li>
               <li className="liSoft">
                 Gosto de quem sou como pessoa e me enxergo de maneira positiva.
               </li>
-              <li className="liSoft">Prefiro uma série de experiências novas e diferentes.</li>
-              <li className="liSoft">Gosto de trabalhar sozinha ou em pequenas equipes.</li>
+              <li className="liSoft">
+                Prefiro uma série de experiências novas e diferentes.
+              </li>
+              <li className="liSoft">
+                Gosto de trabalhar sozinha ou em pequenas equipes.
+              </li>
               <li className="liSoft">
                 Gosto de fazer as pessoas felizes e me conectar emocionalmente
                 com os demais.
@@ -203,11 +215,17 @@ const Softskill = () => {
           <div className="wrap-img-soft ">
             <img className="img-soft " src={spirit} alt=" "></img>
           </div>
-          <div  className="card-text">
-            <h4 className="titleSoft">Sou mais feliz em cargos que me permitam</h4>
+          <div className="card-text">
+            <h4 className="titleSoft">
+              Sou mais feliz em cargos que me permitam
+            </h4>
             <ul>
-              <li className="liSoft">Encontrar e resolver problemas complexos.</li>
-              <li className="liSoft">Ter tempo para uma boa conclusão de projetos detalhados.</li>
+              <li className="liSoft">
+                Encontrar e resolver problemas complexos.
+              </li>
+              <li className="liSoft">
+                Ter tempo para uma boa conclusão de projetos detalhados.
+              </li>
               <li className="liSoft">
                 Geralmente sou capaz de evitar demandas de trabalho muito
                 estressantes ou com restrições de tempo.

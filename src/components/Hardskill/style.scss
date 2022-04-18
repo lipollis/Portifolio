@@ -1,0 +1,31 @@
+.container-hardskill {
+    background: var(--cor-destaque);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    display: grid;
+    grid-auto-rows: auto;
+  }
+
+  .headingHardH2 {
+    color: var(--cor-cinza);
+    padding-bottom: 10px;
+    border-bottom-style: solid;
+    border-color: var(--cor-laranja);
+    text-transform: uppercase;
+    font-weight: 300;
+  
+    border-bottom-width: 3.1px;
+    width: fit-content;
+    width: -moz-fit-content;
+    margin-left: 22%;
+  }
+
+.icon-hardskill{
+  display: inline;
+  margin: 0 auto;
+}
+
+.icon{
+  width: 12rem;
+  padding: 2rem;
+}

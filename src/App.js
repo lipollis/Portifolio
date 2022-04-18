@@ -9,6 +9,7 @@ import MapCards from "./components/E_Portifolio/MapCard";
 import Footer from "./components/G_Footer/index";
 import './App.scss';
 import Softskill from './components/Softskill';
+import Hardskill from './components/Hardskill';
 
 export default class App extends Component {
 
@@ -25,6 +26,7 @@ export default class App extends Component {
         <Banner />
         <About />
         <Softskill />
+        <Hardskill />
         <LinhaTempo />
         <MapCards />
         <Footer owner={this.user} />
