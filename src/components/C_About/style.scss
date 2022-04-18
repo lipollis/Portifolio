@@ -17,6 +17,7 @@
   padding: 0.3rem;
   border: 1px solid var(--cor-laranja);
   object-fit: cover;
+  margin-top: 5rem;
 }
 
 .photo-wrap {
@@ -25,6 +26,9 @@
   margin-top: 1rem;
 }
 
+div.image-container.col-lg-6.col-xm-12{
+  margin: 0 auto;
+}
 // *********************************************
 //    #######   ESTILO PARA O TEXTO   #######
 // *********************************************
