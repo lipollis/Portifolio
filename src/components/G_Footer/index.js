@@ -71,7 +71,7 @@ const Footer = ({owner}) => {
 								<a href="https://www.instagram.com/alinepollis/" target="_blank" rel="noopener noreferrer" className="socialImage">
 								<img className="redeSocial" src={Instagram} alt="Instagram"></img></a>
 
-								<a href="https://www.linkedin.com/in/aline-pollis-beck/" target="_blank" rel="noopener noreferrer" className="socialImage">
+								<a href="https://www.linkedin.com/in/alinepollisbeck/" target="_blank" rel="noopener noreferrer" className="socialImage">
 								<img className="redeSocial" src={LinkedIn} alt="LinkedIn"></img></a>
 
 								<a href="https://github.com/lipollis" target="_blank" rel="noopener noreferrer" className="socialImage">
