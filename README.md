@@ -2,7 +2,7 @@
 
 <div align="right"><img src="https://github.com/lipollis/Imagens-Git/blob/main/sun.png" /></div>
 
-<h1 align="center"> CHECKPOINT Front End III - CTD:Digital House </h1>
+<h1 align="center"> Portfólio </h1>
 
 <h4 align="center"> 
 	🚀  React Select  🚀
