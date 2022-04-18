@@ -35,7 +35,7 @@ const Softskill = () => {
                 possíveis problemas com a respectiva solução.
               </li>
               <li className="liSoft">
-                Ótimo em aceitar críticas e comentários, bem como em assumir a
+                Ótima em aceitar críticas e comentários, bem como em assumir a
                 responsabilidade pelas decisões.
               </li>
               <li className="liSoft">

@@ -80,7 +80,7 @@ const Footer = ({owner}) => {
 								<a href="mailto:aline.pollis@hotmail.com" target="_blank" rel="noopener noreferrer" className="socialImage">
 								<img className="redeSocial" src={Email} alt="Email"></img></a>
 
-								<a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer" className="socialImage">
+								<a href="https://wa.me/5511992863910" target="_blank" rel="noopener noreferrer" className="socialImage">
 								<img className="redeSocial" src={WhatsApp} alt="WhatsApp"></img></a>
 							</div>
 
