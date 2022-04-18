@@ -20,7 +20,7 @@
 <br>
 <br>
 <h2 align="center"> CLOUD </h2>
-  <div align="center"><a href="alinepollis-portifolio.netlify.app" target="_blank" align-items-center> -> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> <- </img></a></div>
+  <div align="center"><a href="https://alinepollis-portifolio.netlify.app/" target="_blank" align-items-center>  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> </img></a></div>
 
 <br>
 <div align="center">:sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny:</div>
